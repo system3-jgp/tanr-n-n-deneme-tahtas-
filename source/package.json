@@ -26,7 +26,7 @@
     "jimp": "^0.5.6",
     "js-base64": "^2.4.9",
     "kratos": "^2.3.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "node-opus": "^0.3.0",
     "path": "^0.12.7",
